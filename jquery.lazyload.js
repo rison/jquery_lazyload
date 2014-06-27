@@ -109,7 +109,7 @@
                     $("<img />")
                         .bind("error", function() {
                             if (settings.error) {
-                                settings.load.call(self);
+                                settings.error.call(self);
                             }
                         })
                         .bind("load", function() {
