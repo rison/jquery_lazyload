@@ -7,6 +7,9 @@
  *   http://www.opensource.org/licenses/mit-license.php
  *
  * Project home:
+ *   http://github.com/rison/jquery_lazyload/
+ *
+ * Forked from:
  *   http://www.appelsiini.net/projects/lazyload
  *
  * Version:  1.9.3
